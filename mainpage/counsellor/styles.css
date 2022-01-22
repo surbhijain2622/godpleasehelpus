@@ -1,0 +1,14 @@
+body{
+  background-image: url("back.jpeg");
+}
+a{
+  color: white;
+}
+a::after{
+  color: white;
+}
+.email{
+  position: absolute;
+  left: 960px;
+  top: 220px;
+}
